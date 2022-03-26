@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RkmanX
 - 👀 I’m interested in ALOT of stuff.
-- 🧩 I'm working currently on a TicTacToe program.
-- 🌱 I’m currently learning C#.
+- 🧩 I'm working currently on nothing.
+- 🌱 I’m currently learning C# and Python.
 - 📫 email me at rkman101@hotmail.com
 
 <!---
